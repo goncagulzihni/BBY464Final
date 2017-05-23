@@ -1,0 +1,1024 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/8g79svKGr3hZjQoo0fjRb5#"
+     xml:base="http://webprotege.stanford.edu/project/8g79svKGr3hZjQoo0fjRb5"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/8g79svKGr3hZjQoo0fjRb5"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6zR2K483zWG8plirrQDDp -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R6zR2K483zWG8plirrQDDp">
+        <rdfs:label>Kostüm</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ANO3xqWuwCMwYyEExJneE -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R7ANO3xqWuwCMwYyEExJneE">
+        <rdfs:label>Actor</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8H67Sd1yLrVb6NPQkod3YO -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R8H67Sd1yLrVb6NPQkod3YO">
+        <rdfs:label>Dance</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8LJxp4zM3AsJOE7VuV9CZt -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R8LJxp4zM3AsJOE7VuV9CZt">
+        <rdfs:label>Music</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9FFMRFJF8mYHxng22u2L61 -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R9FFMRFJF8mYHxng22u2L61">
+        <rdfs:label>Costume</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9pwfv8HX43VZgmNC6BqB0t -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R9pwfv8HX43VZgmNC6BqB0t">
+        <rdfs:label>Dans</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB0ASbv9XPoyD8pr1tckptT -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RB0ASbv9XPoyD8pr1tckptT">
+        <rdfs:label>Müzik</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQzw7qRJkLEjnohThxHsbv -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RBQzw7qRJkLEjnohThxHsbv">
+        <rdfs:label>Music</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBYL6vYrAvZY7nxbiiqV7pZ -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RBYL6vYrAvZY7nxbiiqV7pZ">
+        <rdfs:label>Dance</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHe1en1RrQtGU4M0rcaedq -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RHe1en1RrQtGU4M0rcaedq">
+        <rdfs:label>Music</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RyGzPbHtdYgkVyYra7Nxg0 -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RyGzPbHtdYgkVyYra7Nxg0">
+        <rdfs:label>Dance</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCjKdhvHTWAhlprspSlNdug -->
+
+    <rdfs:Datatype rdf:about="http://webprotege.stanford.edu/RCjKdhvHTWAhlprspSlNdug">
+        <rdfs:label>Çoğun</rdfs:label>
+    </rdfs:Datatype>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHp7sNV0FlKouYO0dCxaQO -->
+
+    <rdfs:Datatype rdf:about="http://webprotege.stanford.edu/RHp7sNV0FlKouYO0dCxaQO">
+        <rdfs:label> </rdfs:label>
+    </rdfs:Datatype>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni">
+        <rdfs:label>Decor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8EW4vDocfhSZuA9CxHYQGo -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8EW4vDocfhSZuA9CxHYQGo">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>Hair</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK">
+        <rdfs:label>Actor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C">
+        <rdfs:label>Costume</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDbPVHPUfMkU8V4pnHL5UgD -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RDbPVHPUfMkU8V4pnHL5UgD">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>Beard</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1">
+        <rdfs:label>Dance</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7">
+        <rdfs:label>Music</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8RP6UlK1jhIbPbxKy2gdMY -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8RP6UlK1jhIbPbxKy2gdMY">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>TheatreTime</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8aJyDKllILEFT15RYifOl5 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8aJyDKllILEFT15RYifOl5">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>TheatreCity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9GYzIqibd7FvBaE0S8pj9S -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9GYzIqibd7FvBaE0S8pj9S">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>TheatreDay</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9gE8M4VSpSs2egKjDi9NPO -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9gE8M4VSpSs2egKjDi9NPO">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>TheatreTicketPrice</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCuHq5ah7dhGzHb2ccmGYXU -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCuHq5ah7dhGzHb2ccmGYXU">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>TheatreDate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZVNKzaziymK46IKkAFSM8 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RZVNKzaziymK46IKkAFSM8">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>TheatreHall</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R4OLJXNmtyv54LSYQbOv88 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R4OLJXNmtyv54LSYQbOv88">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7blxZ1KbJ4mWvlXaAAA46i"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8EW4vDocfhSZuA9CxHYQGo"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDbPVHPUfMkU8V4pnHL5UgD"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R8gvEEsvpTdgtqOmirjOrgT"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Female</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6WUiD6tYyg1sh3Daupn9G -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R6WUiD6tYyg1sh3Daupn9G">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R78ecVkxYDNV2bwP5Eiya2h"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R8gvEEsvpTdgtqOmirjOrgT"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R8gvEEsvpTdgtqOmirjOrgT"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Adult</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <rdfs:label xml:lang="en">Solo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R77uffZGe7v0dgVZ9IIsaCJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R77uffZGe7v0dgVZ9IIsaCJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R8H67Sd1yLrVb6NPQkod3YO xml:lang="en">Slow</webprotege:R8H67Sd1yLrVb6NPQkod3YO>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Adult</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <webprotege:RHe1en1RrQtGU4M0rcaedq xml:lang="en">Chillout</webprotege:RHe1en1RrQtGU4M0rcaedq>
+        <rdfs:label xml:lang="en">Drama</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Ke4N7iMt1Qe3aKp6KwF1E -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7Ke4N7iMt1Qe3aKp6KwF1E">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R8H67Sd1yLrVb6NPQkod3YO xml:lang="en">Entertaining</webprotege:R8H67Sd1yLrVb6NPQkod3YO>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Adult</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <webprotege:RHe1en1RrQtGU4M0rcaedq xml:lang="en">Upbeat</webprotege:RHe1en1RrQtGU4M0rcaedq>
+        <rdfs:label xml:lang="en">Comedy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7aAqZriWjC9qt4wgb31Sbs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7aAqZriWjC9qt4wgb31Sbs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RzQZFIIRdD1W1rIDnBcwWx"/>
+        <rdfs:label>Romantic</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7blxZ1KbJ4mWvlXaAAA46i -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7blxZ1KbJ4mWvlXaAAA46i">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lmsYmIVQHe0c7UdSIbMc2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7lmsYmIVQHe0c7UdSIbMc2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R8H67Sd1yLrVb6NPQkod3YO xml:lang="en">Entertaining</webprotege:R8H67Sd1yLrVb6NPQkod3YO>
+        <webprotege:R8LJxp4zM3AsJOE7VuV9CZt xml:lang="en">Children</webprotege:R8LJxp4zM3AsJOE7VuV9CZt>
+        <webprotege:R8LJxp4zM3AsJOE7VuV9CZt xml:lang="en">Upbeat</webprotege:R8LJxp4zM3AsJOE7VuV9CZt>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Animal</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Clown</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <rdfs:label xml:lang="en">Children&apos;s</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7u6p8SVPRCcW5JufitWcz8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7u6p8SVPRCcW5JufitWcz8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Adult</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <webprotege:RBYL6vYrAvZY7nxbiiqV7pZ xml:lang="en">Entertaining</webprotege:RBYL6vYrAvZY7nxbiiqV7pZ>
+        <webprotege:RBYL6vYrAvZY7nxbiiqV7pZ xml:lang="en">Group Dance</webprotege:RBYL6vYrAvZY7nxbiiqV7pZ>
+        <webprotege:RBYL6vYrAvZY7nxbiiqV7pZ xml:lang="en">Romantic</webprotege:RBYL6vYrAvZY7nxbiiqV7pZ>
+        <webprotege:RHe1en1RrQtGU4M0rcaedq xml:lang="en">Upbeat</webprotege:RHe1en1RrQtGU4M0rcaedq>
+        <rdfs:label xml:lang="en">Musical</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R872usZB5SUS4IfRrMSUoe5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R872usZB5SUS4IfRrMSUoe5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RzQZFIIRdD1W1rIDnBcwWx"/>
+        <rdfs:label>Entertaining</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Qx9dWISdCXK2axxXMCTXC -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8Qx9dWISdCXK2axxXMCTXC">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wYlUpU1aB8l2RtZkMwXzD"/>
+        <rdfs:label>Animal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ubCYhZZw2CzMl2vYy2UqE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8ubCYhZZw2CzMl2vYy2UqE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wYlUpU1aB8l2RtZkMwXzD"/>
+        <rdfs:label>Adult</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R93RR1idxmcyowKlNUiP1kR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R93RR1idxmcyowKlNUiP1kR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7blxZ1KbJ4mWvlXaAAA46i"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8EW4vDocfhSZuA9CxHYQGo"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDbPVHPUfMkU8V4pnHL5UgD"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Male</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R97glReTRDwDxTRJwQAQpYG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R97glReTRDwDxTRJwQAQpYG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9jNjdglrNhBiSdabzjb1ag"/>
+        <rdfs:label>Upbeat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Y6znlnc53j7rWsED76Oif -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9Y6znlnc53j7rWsED76Oif">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label xml:lang="en">Decor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9jNjdglrNhBiSdabzjb1ag -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9jNjdglrNhBiSdabzjb1ag">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label xml:lang="e">Music</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9tEPvqpCNMkMtLQ3o6oeCA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9tEPvqpCNMkMtLQ3o6oeCA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9jNjdglrNhBiSdabzjb1ag"/>
+        <rdfs:label>Children</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9wYlUpU1aB8l2RtZkMwXzD -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9wYlUpU1aB8l2RtZkMwXzD">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label xml:lang="en">Costume</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBFpuQImyymqAjk8YQ2QWZu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBFpuQImyymqAjk8YQ2QWZu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R8gvEEsvpTdgtqOmirjOrgT"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Adult</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <webprotege:RBQzw7qRJkLEjnohThxHsbv xml:lang="en">Chillout</webprotege:RBQzw7qRJkLEjnohThxHsbv>
+        <rdfs:label>Tragedy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBoknwMqM27WI1MBmSIawus -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBoknwMqM27WI1MBmSIawus">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9jNjdglrNhBiSdabzjb1ag"/>
+        <rdfs:label>Chillout</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCQlgJdzppIfYVfNNosV4oG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCQlgJdzppIfYVfNNosV4oG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9wYlUpU1aB8l2RtZkMwXzD"/>
+        <rdfs:label>Clown</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCo6DS4fsldXniJUPyMQepk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCo6DS4fsldXniJUPyMQepk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RzQZFIIRdD1W1rIDnBcwWx"/>
+        <rdfs:label>Group Dance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCq6H6KLmCDlAX3Ho8BLUgb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCq6H6KLmCDlAX3Ho8BLUgb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RzQZFIIRdD1W1rIDnBcwWx"/>
+        <rdfs:label>Slow</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label xml:lang="tr">TheatreContent</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTUqPvuoZ7mdby5tCBo15c -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RTUqPvuoZ7mdby5tCBo15c">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDtEF4Q76WG2Izk3Gk6unBV"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R836IxHtOEUo29cZ9XwQUni"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9SsazQc0etJahGxiBQ5GgK"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCnV5DaERD7P6C0SvttjT9C"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rp8U4yNRCF07gATaDq3xE1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Rvl2A6q0w2Gyh3ZOHFfay7"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Female</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R7ANO3xqWuwCMwYyEExJneE xml:lang="en">Male</webprotege:R7ANO3xqWuwCMwYyEExJneE>
+        <webprotege:R9FFMRFJF8mYHxng22u2L61 xml:lang="en">Adult</webprotege:R9FFMRFJF8mYHxng22u2L61>
+        <webprotege:RBYL6vYrAvZY7nxbiiqV7pZ xml:lang="en">Romantic</webprotege:RBYL6vYrAvZY7nxbiiqV7pZ>
+        <webprotege:RBYL6vYrAvZY7nxbiiqV7pZ xml:lang="en">Slow</webprotege:RBYL6vYrAvZY7nxbiiqV7pZ>
+        <webprotege:RHe1en1RrQtGU4M0rcaedq xml:lang="en">Upbeat</webprotege:RHe1en1RrQtGU4M0rcaedq>
+        <rdfs:label xml:lang="en">Romantic Comedy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RzQZFIIRdD1W1rIDnBcwWx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RzQZFIIRdD1W1rIDnBcwWx">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label xml:lang="en">Dance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7685vNwP3IZym3vAhfDm4c -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7685vNwP3IZym3vAhfDm4c">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7u6p8SVPRCcW5JufitWcz8"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">20:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Ankara</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Friday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">6.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">06.15.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Şinasi Sahnesi</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Rumuz Goncagül</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.devtiyatro.gov.tr/programlar-sehirler-ankara-detay-rumuz-goncagul18.html"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R78ecVkxYDNV2bwP5Eiya2h -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R78ecVkxYDNV2bwP5Eiya2h">
+        <rdfs:label>True </rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7KTwvdJw6zHaIJuJiNHrVb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7KTwvdJw6zHaIJuJiNHrVb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7Ke4N7iMt1Qe3aKp6KwF1E"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">21:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Istanbul</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Thursday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">67.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">06.08.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Trump Kültür ve Gösteri Merkezi</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Kibarlık Budalası</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.biletix.com/etkinlik-grup/453/TURKIYE/tr"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7kc0cBykr8yxfU3bBWSBx1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7kc0cBykr8yxfU3bBWSBx1">
+        <rdfs:label>tue</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8KKaV1s0RauBni2scVBr4W -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8KKaV1s0RauBni2scVBr4W">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lmsYmIVQHe0c7UdSIbMc2"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">17:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Eskişehir</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Tuesday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">10.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.23.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Turgut Özakman Sahnesi</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Cengiz Özek Gölge Tiyatrosu &apos;&apos;Çöp Canavarı&apos;&apos;</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://biletinial.com/tiyatro/cengiz-ozek-golge-tiyatrosu-cop-canavari"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8VU3XFF6fx7v69NwoYnN50 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8VU3XFF6fx7v69NwoYnN50">
+        <rdfs:label>Tru </rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8gvEEsvpTdgtqOmirjOrgT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8gvEEsvpTdgtqOmirjOrgT">
+        <rdfs:label>false</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9AUKSirTLBIr7hvCzxAnZx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9AUKSirTLBIr7hvCzxAnZx">
+        <rdfs:label>trues</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9GBpgJAGfmKacwNd3qFYhB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9GBpgJAGfmKacwNd3qFYhB">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R77uffZGe7v0dgVZ9IIsaCJ"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">20:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Eskişehir</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Tuesday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">22.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.30.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Haller Gençlik Merkezi</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>39 Basamak</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://biletinial.com/tiyatro/39-basamak"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9xCvWpwO2igBCg7wWmnSQq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9xCvWpwO2igBCg7wWmnSQq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFpuQImyymqAjk8YQ2QWZu"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">20:30</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Istanbul</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Tuesday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">50.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.30.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Ezop Sahne</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Aşiyan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBMYZQOlpzqGAtcO73JBQ95">
+        <rdfs:label>True</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCaWvGlWyjTi96xobkgCaSi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCaWvGlWyjTi96xobkgCaSi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R77uffZGe7v0dgVZ9IIsaCJ"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">20:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Izmir</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Wednesday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">26.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.24.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Atölye Açıkkapı</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Shakespeare Öldü, Aş Bunları</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://biletinial.com/tiyatro/shakespeare-oldu-as-bunlari"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDfdJl0sqvBBaoD8XIfxnEt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDfdJl0sqvBBaoD8XIfxnEt">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6WUiD6tYyg1sh3Daupn9G"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">21:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Istanbul</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Thursday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">56.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.25.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Evde Tiyatro</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Bir Delinin Hatıra Defteri</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.biletix.com/etkinlik/UPJG8/TURKIYE/tr"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDtoc780CvnzXGNRn8uQUuP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDtoc780CvnzXGNRn8uQUuP">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTUqPvuoZ7mdby5tCBo15c"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="en">19:00 - 22:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">KKTC</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Wednesday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">03.02.2016</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Rauf Raif Denktaş Kültür ve Kongre Sarayı</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>2 si 1 arada</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://ww1.emu.edu.tr/tr/haberler/etkinlikler/2-si-1-arada-romantik-komedi-tiyatro-gosterisi/1235?posts_pid=1367"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFOnwbQrC92OO0QMos65i9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RFOnwbQrC92OO0QMos65i9">
+        <rdfs:label>truee</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RGEsAqiuYLybVGtyyhdBM0 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RGEsAqiuYLybVGtyyhdBM0">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7Ke4N7iMt1Qe3aKp6KwF1E"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">19:30</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Eskişehir</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Sunday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">27.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.28.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Haller Gençlik Merkezi</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label>Güneşin Zaptı</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://biletinial.com/tiyatro/gunesin-zapti"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJGEh3bcpWy3QyI2CEEpC6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RJGEh3bcpWy3QyI2CEEpC6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lmsYmIVQHe0c7UdSIbMc2"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">15:00 - 17:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Istanbul</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Saturday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">34.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.27.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Torium AVM</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label xml:lang="tr">Canım Kardeşim Müzikali 2</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://etkinlik.io/etkinlik/63679/canim-kardesim-muzikali-2"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQzyPQZHbOnA7t6WHVQABH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RQzyPQZHbOnA7t6WHVQABH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lmsYmIVQHe0c7UdSIbMc2"/>
+        <webprotege:R8RP6UlK1jhIbPbxKy2gdMY xml:lang="tr">14:00 - 16:00</webprotege:R8RP6UlK1jhIbPbxKy2gdMY>
+        <webprotege:R8aJyDKllILEFT15RYifOl5 xml:lang="en">Ankara</webprotege:R8aJyDKllILEFT15RYifOl5>
+        <webprotege:R9GYzIqibd7FvBaE0S8pj9S xml:lang="en">Saturday</webprotege:R9GYzIqibd7FvBaE0S8pj9S>
+        <webprotege:R9gE8M4VSpSs2egKjDi9NPO xml:lang="en">15.00 TL</webprotege:R9gE8M4VSpSs2egKjDi9NPO>
+        <webprotege:RCuHq5ah7dhGzHb2ccmGYXU xml:lang="en">05.27.2017</webprotege:RCuHq5ah7dhGzHb2ccmGYXU>
+        <webprotege:RZVNKzaziymK46IKkAFSM8 xml:lang="en">Ankara CerModern</webprotege:RZVNKzaziymK46IKkAFSM8>
+        <rdfs:label xml:lang="tr">Sihirli Madalyon</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://etkinlik.io/etkinlik/68008/sihirli-madalyon"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
